@@ -4,7 +4,7 @@ Portfolio personnel développé en HTML/CSS/JS vanilla, sans framework.
 
 ## Stack
 
-- HTML5, CSS3, JavaScript (vanilla)
+- HTML5, CSS3, JavaScript
 - Fonts : DM Mono, Fraunces, Outfit (Google Fonts)
 - Thème clair/sombre (toggle natif)
 
@@ -34,11 +34,6 @@ cv/
 | ETL Crypto — API CoinGecko | Python, Pandas, CoinGecko API, Jupyter, pytest | [GitHub](https://github.com/rayane-ilo/etl-crypto) |
 
 ## Lancer en local
-
-```bash
-# Ouvrir directement dans le navigateur
-open index.html
-```
 
 Aucune dépendance, aucun build requis.
 
